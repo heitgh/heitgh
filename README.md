@@ -1,4 +1,4 @@
-<h2 align="center"> <code>&lt;Hello World!! I'm <b>Davi Chagas</b>! /&gt;</code></h2>
+<h2 align="center"> <code>&lt;Hello World!! I'm <b>Julio Prates</b>! /&gt;</code></h2>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -8,7 +8,7 @@
 </div>
 
 <p align="center" style="margin-top: 10px;">
-Back-end developer focused on building scalable RESTful APIs using <b>Java & Spring Boot</b>, with interest in system design and cloud infrastructure.
+Back-end developer focused on building scalable RESTful APIs using <b>Java & Python</b>, with interest in system design and cloud infrastructure.
 </p>
 
 
@@ -33,7 +33,7 @@ Back-end developer focused on building scalable RESTful APIs using <b>Java & Spr
   <a href="https://www.linkedin.com/in/julio-prates-089504415/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/davithedev/" target="_blank">
+  <a href="https://www.instagram.com/juliolps__/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
 </div>
