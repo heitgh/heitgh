@@ -8,7 +8,7 @@
 </div>
 
 <p align="center" style="margin-top: 10px;">
-Back-end developer focused on building scalable RESTful APIs using <b>Java & Python</b>, with interest in system design and cloud infrastructure.
+  Back-end developer focused on projects developing and building scalable APIs and automating with AI using <b>Java and Python</b>, with an interest in cloud systems and infrastructure design.
 </p>
 
 
