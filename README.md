@@ -15,6 +15,8 @@
 ##  Tech Stack
 
 <div>
+ <img src="https://imgs.search.brave.com/s2rO0xXdn3OjYKqiU-9v_X8M98t87q-og5fCxnEuLDM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy8zNzYzNDQv/cHl0aG9uLnN2Zw" height="40" alt="python logo"  />
+  <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
