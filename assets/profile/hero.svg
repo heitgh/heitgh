@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Julio Prates — systems development</title>
-  <desc id="desc">A lunar night-sky banner introducing Julio Prates, GitHub username heitgh, and his focus on backend and AI projects.</desc>
+  <title id="title">Julio Prates — desenvolvimento de sistemas</title>
+  <desc id="desc">Banner com céu noturno e identidade lunar apresentando Julio Prates, o nome de usuário heitgh e seu foco em back-end e projetos com IA.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#050816"/><stop offset=".52" stop-color="#0b1535"/><stop offset="1" stop-color="#25104a"/>
