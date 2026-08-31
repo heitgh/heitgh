@@ -1,0 +1,37 @@
+/home/heitgh/.bash_profile: line 6: [: : integer expected
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Julio Prates — systems development</title>
+  <desc id="desc">A lunar night-sky banner introducing Julio Prates, GitHub username heitgh, and his focus on backend and AI projects.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050816"/><stop offset=".52" stop-color="#0b1535"/><stop offset="1" stop-color="#25104a"/>
+    </linearGradient>
+    <radialGradient id="moon" cx="35%" cy="30%" r="70%">
+      <stop offset="0" stop-color="#ffffff"/><stop offset=".52" stop-color="#dbeafe"/><stop offset="1" stop-color="#8b5cf6"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2563eb"/><stop offset=".55" stop-color="#7c3aed"/><stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="14" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <path d="M0 295 C240 250 430 350 690 298 S1010 235 1200 285 V360 H0Z" fill="#080d22" opacity=".72"/>
+  <path d="M72 285 H765" stroke="url(#line)" stroke-width="3" stroke-linecap="round" opacity=".9"/>
+  <g fill="#dbeafe">
+    <circle cx="95" cy="74" r="2"/><circle cx="186" cy="112" r="1.5"/><circle cx="306" cy="58" r="2"/>
+    <circle cx="520" cy="88" r="1.5"/><circle cx="662" cy="52" r="2"/><circle cx="746" cy="120" r="1.5"/>
+    <circle cx="1075" cy="66" r="2"/><circle cx="1130" cy="140" r="1.5"/><circle cx="855" cy="58" r="1.5"/>
+  </g>
+  <circle cx="980" cy="170" r="106" fill="#7c3aed" opacity=".22" filter="url(#glow)"/>
+  <circle cx="980" cy="170" r="82" fill="url(#moon)"/>
+  <circle cx="946" cy="143" r="14" fill="#667eea" opacity=".22"/><circle cx="1007" cy="196" r="20" fill="#312e81" opacity=".18"/>
+  <circle cx="1020" cy="125" r="9" fill="#2563eb" opacity=".18"/>
+  <path d="M1040 90 A92 92 0 0 1 1036 246 A82 82 0 0 0 980 88Z" fill="#111827" opacity=".55"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" fill="#f8fafc">
+    <text x="72" y="102" font-size="24" font-weight="600" letter-spacing="4" fill="#67e8f9">@HEITGH</text>
+    <text x="72" y="188" font-size="72" font-weight="750">Julio Prates</text>
+    <text x="72" y="238" font-size="28" font-weight="500" fill="#cbd5e1">Systems development · Backend · AI projects</text>
+  </g>
+</svg>
