@@ -1,4 +1,3 @@
-/home/heitgh/.bash_profile: line 6: [: : integer expected
 <div align="center">
   <img src="assets/profile/hero.svg" alt="Julio Prates — systems development, backend and AI projects" width="100%" />
 </div>
